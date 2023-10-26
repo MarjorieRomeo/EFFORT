@@ -1,7 +1,7 @@
 # EFFORT
 data and script
 
-- les fichiers sont rangés par trait fonctionnel ou par indice de diversité 
+- les fichiers sont rangés par trait fonctionnel ou par indice de diversité. a noter que les fichiers branching n'ont pas été utilisé car toutes les plantes échantillonnées sont dans la catégorie branching.
 
 - les fichiers csv correspondent au données qui ont servi à faire les test AIC et de régression. 
 Il sont nommés avec les codes suivant : 
@@ -22,4 +22,5 @@ exporté dans un fichier qui commence par LM.
 
 - Pour le trait fonctionnel mode de dispersion, pour la strate arbre il n'y a que l'année 2021 qui est évalué car 
 il y a peu de données pour cette strate. 
+
 
