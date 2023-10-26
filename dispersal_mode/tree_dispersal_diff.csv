@@ -1,0 +1,31 @@
+"","modalite","site","ET_diff_autochor","mean_diff_autochor","ET_diff_zoochor","mean_diff_zoochor","ET_diff_hemerochor","mean_diff_hemerochor","ET_diff_anemochor","mean_diff_anemochor","ET_diff_meteorochor","mean_diff_meteorochor","ET_diff_barrochor","mean_diff_barrochor","année"
+"1","enclos_exclos","TF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016
+"2","exclos_selectif cerf","Arc",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2017
+"3","exclos_selectif chevreuil","Arc",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2017
+"4","exclos_selectif sanglier","Arc",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2017
+"5","enclos_exclos","Arc",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2017
+"6","enclos_exclos","TF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2017
+"7","enclos_exclos","TF",0.47,0.33,0,0,0.47,-0.34,0,0,0,0,0,0,2018
+"8","enclos_exclos","Arc",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018
+"9","exclos_selectif sanglier","Arc",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018
+"10","exclos_selectif chevreuil","Arc",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018
+"11","exclos_selectif cerf","Arc",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018
+"12","exclos_selectif cerf","Arc",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019
+"13","exclos_selectif chevreuil","Arc",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019
+"14","exclos_selectif sanglier","Arc",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019
+"15","enclos_exclos","Arc",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019
+"16","enclos_exclos","TF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019
+"21","enclos_exclos","Arc",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+"31","exclos_selectif chevreuil","Arc",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+"41","exclos_selectif cerf","Arc",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+"51","exclos_selectif sanglier","Arc",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+"17","exclos_selectif sanglier","Arc",0,0,0.22,-0.18,0.18,-0.04,0.21,0.22,0,0,0,0,2021
+"22","exclos_selectif chevreuil","Arc",0,0,0.06,0.01,0.05,-0.08,0.08,0.07,0,0,0,0,2021
+"32","exclos_selectif cerf","Arc",0,0,0.27,-0.14,0.16,0.02,0.13,0.12,0,0,0,0,2021
+"42","enclos_exclos","Arc",0,0,0.17,-0.18,0.11,-0.02,0.15,0.2,0,0,0,0,2021
+"52","enclos_exclos","TF",0,0,0.43,-0.18,0.44,0.16,0.03,0.01,0,0,0,0,2021
+"18","enclos_exclos","TF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2022
+"23","enclos_exclos","Arc",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2022
+"33","exclos_selectif chevreuil","Arc",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2022
+"43","exclos_selectif cerf","Arc",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2022
+"53","exclos_selectif sanglier","Arc",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2022

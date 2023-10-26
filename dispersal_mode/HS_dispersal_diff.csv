@@ -1,0 +1,31 @@
+,modalite,site,ET_diff_autochor,mean_diff_autochor,ET_diff_zoochor,mean_diff_zoochor,ET_diff_hemerochor,mean_diff_hemerochor,ET_diff_anemochor,mean_diff_anemochor,ET_diff_meteorochor,mean_diff_meteorochor,ET_diff_barrochor,mean_diff_barrochor,année
+1,enclos_exclos,TF,0.17,0.08,0.24,0.19,0.54,-0.25,0.36,-0.02,0,0,0,0,2016
+2,enclos_exclos,TF,0.2,0.12,0.24,-0.02,0.48,-0.2,0.62,0.36,0,0,0,0,2017
+3,enclos_exclos,Arc,0.58,0.33,0.58,-0.33,0.29,0.17,0.29,0.17,0,0,0,0,2017
+4,exclos_selectif sanglier,Arc,0,0,0.58,-0.67,0,0,0,0,0,0,0,0,2017
+5,exclos_selectif cerf,Arc,0.29,-0.17,0,0,0.19,0.11,0.1,0.06,0,0,0,0,2017
+6,exclos_selectif chevreuil,Arc,0,0,0.58,0.67,0.58,-0.33,0,0,0,0,0,0,2017
+7,exclos_selectif chevreuil,Arc,0.18,0.12,0,-0.5,0.06,0.29,0.12,0.09,0,0,0,0,2018
+8,exclos_selectif cerf,Arc,0,0,0.23,0.16,0,0,0.23,0.84,0,0,0,0,2018
+9,exclos_selectif sanglier,Arc,0.59,-0.06,0.42,0.06,0.58,0.33,0.58,0.33,0,0,0,0,2018
+10,enclos_exclos,Arc,NA,1,NA,-1,NA,0,NA,0,NA,0,NA,0,2018
+11,enclos_exclos,TF,0,0,0,0,0.12,-0.06,0.47,0.31,0,0,0,0,2018
+12,enclos_exclos,TF,0.12,0.06,0.25,0.12,0.41,0,0.12,0.06,0,0,0,0,2019
+13,enclos_exclos,Arc,0.33,0.13,0.78,-0.14,0.01,0.01,0,0,0,0,0,0,2019
+14,exclos_selectif chevreuil,Arc,0.43,0.21,0.51,-0.09,0.11,-0.07,0.18,-0.05,0,0,0,0,2019
+15,exclos_selectif cerf,Arc,0.15,0.09,0.17,-0.07,0.34,-0.18,0.11,0.15,0,0,0,0,2019
+16,exclos_selectif sanglier,Arc,0.49,-0.15,0.24,0.27,0.69,-0.2,0.38,0.42,0,0,0,0,2019
+17,exclos_selectif sanglier,Arc,0.33,-0.21,0.47,0.04,0.22,-0.07,0.32,0.24,0,0,0,0,2020
+18,exclos_selectif chevreuil,Arc,0.09,0.16,0.12,-0.08,0.16,-0.13,0.19,0.05,0,0,0,0,2020
+19,exclos_selectif cerf,Arc,0.2,0,0.12,0.08,0.03,-0.03,0.17,-0.04,0,0,0,0,2020
+20,enclos_exclos,Arc,0.08,-0.03,0.13,0.01,0.04,-0.03,0.03,0.05,0,0,0,0,2020
+21,enclos_exclos,Arc,0.03,0.02,0.22,0.05,0.12,-0.17,0.17,0.1,0,0,0,0,2021
+22,enclos_exclos,TF,0,0,0.38,0.19,0.48,-0.38,0.25,0.18,0,0,0,0,2021
+23,exclos_selectif sanglier,Arc,0.02,0.01,0.13,-0.03,0.24,-0.07,0.26,0.1,0,0,0,0,2021
+24,exclos_selectif chevreuil,Arc,0.03,0.03,0.27,0.02,0.09,-0.06,0.34,0.02,0,0,0,0,2021
+25,exclos_selectif cerf,Arc,0.03,0.02,0.23,-0.05,0.13,0.06,0.13,-0.04,0,0,0,0,2021
+26,exclos_selectif cerf,Arc,0.03,-0.01,0.08,-0.03,0.15,0.06,0.25,-0.02,0,0,0,0,2022
+27,exclos_selectif chevreuil,Arc,0.03,0.02,0.35,0.01,0.09,-0.05,0.42,0.03,0,0,0,0,2022
+28,exclos_selectif sanglier,Arc,0,0,0.52,-0.29,0.13,-0.07,0.43,0.37,0,0,0,0,2022
+29,enclos_exclos,Arc,0.02,0.01,0.12,0,0.06,0.04,0.1,-0.05,0,0,0,0,2022
+30,enclos_exclos,TF,0.22,0.19,0.49,-0.32,0.19,-0.08,0.37,0.46,0,0,0,0,2022
