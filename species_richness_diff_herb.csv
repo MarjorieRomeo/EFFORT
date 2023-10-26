@@ -1,0 +1,31 @@
+"","modalite","site","diff_ET_SR","diff_mean_SR","année"
+"1","enclos_exclos","TF",0.816496580927726,0,2016
+"2","enclos_exclos","TF",0.5,0.25,2017
+"3","enclos_exclos","Arc",1,1,2017
+"4","exclos_selectif chevreuil","Arc",0.577350269189626,-0.333333333333333,2017
+"5","exclos_selectif cerf","Arc",0.577350269189626,0.333333333333333,2017
+"6","exclos_selectif sanglier","Arc",0,0,2017
+"7","enclos_exclos","Arc",NA,1.9375,2018
+"8","enclos_exclos","TF",0.5,1.25,2018
+"9","exclos_selectif sanglier","Arc",0.526943327914239,0.0104166666666667,2018
+"10","exclos_selectif chevreuil","Arc",0.57452425971407,0.8125,2018
+"11","exclos_selectif cerf","Arc",0.0883883476483184,0.3125,2018
+"12","exclos_selectif cerf","Arc",0.577350269189626,0.333333333333333,2019
+"13","exclos_selectif chevreuil","Arc",0.577350269189626,0.333333333333333,2019
+"14","exclos_selectif sanglier","Arc",0.577350269189626,0.333333333333333,2019
+"15","enclos_exclos","Arc",0.577350269189626,0.333333333333333,2019
+"16","enclos_exclos","TF",0,0,2019
+"17","enclos_exclos","Arc",1,1,2020
+"18","exclos_selectif chevreuil","Arc",0,0,2020
+"19","exclos_selectif cerf","Arc",0.577350269189626,0.666666666666667,2020
+"20","exclos_selectif sanglier","Arc",0.577350269189626,0.333333333333333,2020
+"21","exclos_selectif sanglier","Arc",1.52752523165195,-0.333333333333333,2021
+"22","exclos_selectif chevreuil","Arc",0.577350269189626,-0.666666666666667,2021
+"23","exclos_selectif cerf","Arc",0,0,2021
+"24","enclos_exclos","Arc",0.577350269189626,-0.666666666666667,2021
+"25","enclos_exclos","TF",0.5,-0.25,2021
+"26","enclos_exclos","TF",0.577350269189626,0.5,2022
+"27","enclos_exclos","Arc",1.15470053837925,0.333333333333333,2022
+"28","exclos_selectif chevreuil","Arc",0.577350269189626,0.666666666666667,2022
+"29","exclos_selectif cerf","Arc",0,0,2022
+"30","exclos_selectif sanglier","Arc",0.577350269189626,0.333333333333333,2022
